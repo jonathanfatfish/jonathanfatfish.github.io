@@ -3,7 +3,7 @@ layout: page
 # The tab name on the sidebar.
 title: Daily Robotics News
 icon: fas fa-robot
-order: 5
+order: 1
 ---
 
 ## Daily Robotics News

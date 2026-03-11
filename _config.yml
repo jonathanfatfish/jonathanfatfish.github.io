@@ -14,19 +14,19 @@ timezone: Asia/Singapore
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Yiichu03's Blog # the main title
+title: Daily Robotics News # the main title
 
-tagline: sharing my life # it will display as the subtitle
+tagline: Source-linked daily digests # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A personal blog about a student.
+  A daily, source-linked digest of frontier robotics research and market demand signals.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://yiichu03.github.io"
+url: "https://jonathanfatfish.github.io"
 
 github:
-  username: yiichu03 # change to your GitHub username
+  username: jonathanfatfish # change to your GitHub username
 
 twitter:
   username: ""# change to your Twitter username
@@ -34,12 +34,10 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Yiichu03
-  email: example@domain.com # change to your email address
+  name: jonathanfatfish
+  email: "" # optional
   links:
-    # The first element serves as the copyright owner's link
-    # - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/yiichu03 # change to your GitHub homepage
+    - https://github.com/jonathanfatfish
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
